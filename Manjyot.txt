@@ -1,0 +1,2 @@
+This is first version of my git project.
+Adding more content to the project. 
